@@ -1,0 +1,8 @@
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\obj\Debug\Ex02_Othelo.csprojAssemblyReference.cache
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\obj\Debug\Ex02_Othelo.csproj.CoreCompileInputs.cache
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\bin\Debug\B19 Ex02 Itamar 205681620 Shay 315960252.exe
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\bin\Debug\B19 Ex02 Itamar 205681620 Shay 315960252.pdb
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\obj\Debug\Ex02_Othelo.csproj.CopyComplete
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\obj\Debug\B19 Ex02 Itamar 205681620 Shay 315960252.exe
+C:\Users\איתמר קליין\Desktop\מדעי המחשב\שנה ב סמסטר ב\סי שארפ\עבודות בית\הגשה 2\B19 Ex02 ItamarKlein 205681620 ShayEis 315960252\B19 Ex02 Itamar 205681620 Shay 315960252\obj\Debug\B19 Ex02 Itamar 205681620 Shay 315960252.pdb
